@@ -10,6 +10,10 @@ As college students ourselves, we know that when midterms season hits or wintert
 ## What It Does
 Udelivery pairs students with peers that are already on their way to dining locations across campus to provide convenient student-to-student on-campus delivery options. It pairs students already headed toward a general dining area with students who would also like to order from the same restaurant venues, but do not want to leave their dorm room. It provides students who are willing to be carriers for their peers the opportunity to make a few extra bucks while doing a route they would already do otherwise. On the flip side, students who want to enjoy the convenience of food delivery without paying huge off-campus delivery fees the affordable option to have on-campus food delivered to them.
 
+## Video Demo 
+[![Udelivery Demo](https://img.youtube.com/vi/UGO28r-w8lM/0.jpg)](https://www.youtube.com/watch?v=UGO28r-w8lM)
+
+
 ## How We Built It
 Udelivery was developed during WakeHacks 2021 in NC. It was awarded "Best Overall Hack" and "Best Community-Voted Hack".
 
